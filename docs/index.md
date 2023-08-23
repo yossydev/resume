@@ -14,8 +14,8 @@
 ## 各種アカウント
 
 <p>
-<a href="https://github.com/code-yy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/codeyy-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/codeyy_dev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@codeyy_dev-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://github.com/yossydev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/yossydev-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/yossydev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@yossydev-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://zenn.dev/yuto76" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/yuto76-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 </p>
 
@@ -114,11 +114,35 @@ Ameba マンガのプロダクト開発チームにてフロントエンドエ�
   - TypeScript + Next.js + Recoil + UI ライブラリ（MUI, Chakra UI, Mantine）を使用したフロントエンド開発
   - Express + TypeScript + TypeORM + MySQL を使用した API サーバー開発
 
-## 業務外活動
+### 副業
+
+- **ソフトウェア受託開発**
+  - 担当：実装
+  - 使用技術：JavaScript, TypeScript, Next.js, React, Express
+
+### 技術記事投稿
+
+- **Blog**
+  - 月一くらいで投稿するようにしています。
+  - [https://yossydev.com/](https://yossydev.com/)
+- **Zenn**
+  - 自分のブログを作るまでははこちらで書いていました。
+  - [https://zenn.dev/yuto76](https://zenn.dev/yuto76)
 
 ### 勉強会での登壇
 
+- **エンジニアに時間をください！！**
+  - [エンジニアに時間をください！！](https://speakerdeck.com/codeyy/enzinianishi-jian-wokudasai)
+- **Core Web Vitals について**
+  - [Core Web Vitals について](https://speakerdeck.com/codeyy/core-web-vitalsnituite)
+- **他登壇資料**
+  - [https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
+
 ### 勉強会の開催
+
+- **兵庫県神戸市にて勉強会を開催**
+  - つながる勉強会（開催回数 3 回、 メンバー 50 人）
+  - [https://tsunagaru-kobe.connpass.com/](https://mito-web-engineer.connpass.com/)
 
 ## 意欲・興味
 
