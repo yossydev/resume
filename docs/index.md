@@ -6,7 +6,7 @@
 | -------- | ---------- |
 | 氏名     | 吉野 悠人  |
 | 生年月日 | 2001/11/24 |
-| Twitter  | codeyy_dev |
+| Twitter  | yossydev   |
 | Zenn     | yuto76     |
 
 ---
@@ -57,45 +57,23 @@
 
 ## 職務経歴詳細
 
-### 株式会社サイバーエージェント ABEMA TV（2023/06 ~ ）
+### 株式会社サイバーエージェント 内定者バイト（2023/01〜）
+
+- 部署
+
+  - Amebaマンガ
+  - Winticket
+  - ABEMA
+  - AI事業本部 オペレーションテクノロジー
+  - Amebaブログ
 
 - プロジェクト規模：
 
-  - Web チーム約 20 名の、業務推進チーム所属
+  - 平均 5 ~ 15人チームでの開発
 
-- プロジェクト詳細：
+- 役割：
 
-  - TypeScript + React によるフロントエンド開発
-  - Node.js のバージョンアップ
-  - バンドルツールの移行
-
-### 株式会社サイバーエージェント Winticket（2023/04 ~ 2023/05）
-
-- プロジェクト規模：
-
-  - フロントエンド 5 人チームでの開発
-
-- プロジェクト詳細：
-
-  - TypeScript + React によるフロントエンド開発
-  - 施策
-  - Jest / React Testing Library によるテストコードの追加
-
-### 株式会社サイバーエージェント Ameba マンガ（2023/01 ~ 2023/04）
-
-Ameba マンガのプロダクト開発チームにてフロントエンドエンジニア。
-
-- プロジェクト規模：
-
-  - フロントエンド 5 人チームでの開発
-
-- プロジェクト詳細：
-
-  - TypeScript + React によるフロントエンド開発
-  - Web Performance 向上
-  - DX 向上
-  - Design System の整備
-  - 施策
+  - フロントエンドエンジニア
 
 ### 株式会社 Anycloud（2022/01〜2022/12）
 
@@ -114,11 +92,51 @@ Ameba マンガのプロダクト開発チームにてフロントエンドエ�
   - TypeScript + Next.js + Recoil + UI ライブラリ（MUI, Chakra UI, Mantine）を使用したフロントエンド開発
   - Express + TypeScript + TypeORM + MySQL を使用した API サーバー開発
 
+## 業務外活動
+
+### OSS・個人開発活動
+
+#### 主要リポジトリ
+
+<table>
+  <thead>
+    <tr>
+      <td><b>Projects</b></td>
+      <td><b>Lang / FW</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Forks</b></td>
+      <td><b>Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+	<tr>
+      <td><a href="https://github.com/yossydev/rando_lgtm"><b>rando_lgtm</b></a></td>
+      <td><img alt="Go" src="https://img.shields.io/badge/-CC342D?style=flat-square&logo=Go&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/yossydev/rando_lgtm?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/yossydev/rando_lgtm?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/yossydev/rando_lgtm?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+#### その他
+
+- **OSS への PR 作成**
+  - Biomeへのコミット: https://github.com/biomejs/biome
+  - Spindleへのコミット: https://github.com/openameba/spindle
+
 ### 副業
+
+- **株式会社Anycloud**
+
+  - 担当：実装
+  - 使用技術：JavaScript, TypeScript, Next.js, React, Express
+  - フロントエンド開発だけでなく、バックエンドの開発も行う。
 
 - **ソフトウェア受託開発**
   - 担当：実装
-  - 使用技術：JavaScript, TypeScript, Next.js, React, Express
+  - 使用技術：ReactNative、Expo, Supabase
+  - 同僚の受託開発を手伝う。モバイルアプリの基盤系を行う
 
 ### 技術記事投稿
 
